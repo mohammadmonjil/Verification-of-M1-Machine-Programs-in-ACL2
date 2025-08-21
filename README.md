@@ -2,6 +2,7 @@
 
 ## Overview
 This project verifies programs written for the **M1-machine** using the ACL2 theorem prover.  
+The **M1-machine** is a **stack-based machine inspired by the Java Virtual Machine (JVM)**.  
 The **main goal** was to write and verify a multiplication program. Two additional stretch goals were also attempted: division and greatest common divisor (GCD).
 
 ---
@@ -43,4 +44,3 @@ The **main goal** was to write and verify a multiplication program. Two addition
   - `project_strech_goal_division.lisp`  
   - `project_strech_goal_gcdx.lisp`  
 - Load these files in ACL2 to explore the programs and their proofs.
----
